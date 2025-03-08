@@ -5,7 +5,7 @@
         Trusted partners worldwide
       </h2>
       <p class="text-gray-500 text-sm">
-        We're partners with countless major organisations around the globe
+        We are partners with countless major organisations around the globe
       </p>
     </div>
 
@@ -83,11 +83,11 @@
     </div>
   </section>
 </template>
-
-<script setup>
-// No reactive logic needed for this component
-</script>
-
 <style scoped>
-/* Add any custom styles if needed */
+/* Make sure there is only valid CSS here */
+section {
+  background-color: #f9f9f9;
+  padding: 20px;
+}
 </style>
+

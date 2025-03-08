@@ -3,7 +3,8 @@
 <template>
   <div class="flex flex-col min-h-screen">
     <!-- Navbar -->
-   
+    <Navbar />
+ 
 
     <!-- Main Content -->
     <main class="flex-1">

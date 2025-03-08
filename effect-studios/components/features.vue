@@ -131,6 +131,3 @@
   </section>
 </template>
 
-<script setup>
-// No reactive logic needed for this component
-</script>

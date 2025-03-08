@@ -1,8 +1,6 @@
 <template>
   <section  class="relative bg-cover bg-center bg-no-repeat px-6 lg:px-12 py-16 lg:py-20"
     style="background-image: url('/images/press-hero.png');">
-    <!-- Background Decoration -->
-    <!-- <div class="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-r from-transparent to-blue-50 pointer-events-none"></div> -->
 
     <!-- Content -->
     <div class="max-w-2xl mx-auto text-center">

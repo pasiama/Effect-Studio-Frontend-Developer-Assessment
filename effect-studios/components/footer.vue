@@ -129,10 +129,4 @@
   </footer>
 </template>
 
-<script setup>
-// No reactive logic needed for this component
-</script>
 
-<style scoped>
-/* Add any custom styles if needed */
-</style>

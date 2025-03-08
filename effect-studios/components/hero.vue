@@ -1,8 +1,5 @@
 <template>
   <div class="min-h-screen flex flex-col">
-    <!-- Navigation Bar -->
-    <Navbar />
-
     <!-- Main Content -->
     <main
       class="flex-grow flex flex-col items-center justify-center py-12 px-4 bg-[#F8F9FE]"
