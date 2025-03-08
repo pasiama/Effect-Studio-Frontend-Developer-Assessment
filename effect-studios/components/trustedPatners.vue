@@ -86,7 +86,7 @@
 <style scoped>
 /* Make sure there is only valid CSS here */
 section {
-  background-color: #f9f9f9;
+
   padding: 20px;
 }
 </style>
