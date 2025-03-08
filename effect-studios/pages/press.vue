@@ -1,8 +1,6 @@
 <template>
       <div class="mx-auto">
-        <!-- Navbar -->
        
-    <Navbar/>
         <!-- Main Content -->
         <main >
           <Press-Hero />

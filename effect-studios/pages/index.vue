@@ -2,8 +2,7 @@
 
 <template>
   <div class="flex flex-col min-h-screen">
-    <!-- Navbar -->
-    <Navbar />
+ 
  
 
     <!-- Main Content -->
@@ -14,7 +13,6 @@
       <TrustedPatners />
     </main>
 
-    <!-- Footer -->
-    <Footer />
+  
   </div>
 </template>
